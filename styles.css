@@ -3,10 +3,12 @@ h1 {
 }
 h2 {
   color: wheat;
+  margin: auto;
 }
 body {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.397);
   width: 100%;
+  height: auto;
 }
 
 footer {
