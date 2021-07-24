@@ -9,6 +9,10 @@ body {
   width: 100%;
 }
 
+footer {
+  color: white;
+}
+
 .image {
   margin: 50%;
   border-radius: 50px;
