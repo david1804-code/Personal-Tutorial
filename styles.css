@@ -1,8 +1,17 @@
-h1{
- color:aqua;  
+h1 {
+  color: aqua;
 }
-h2{
-    color:wheat;
+h2 {
+  color: wheat;
 }
-body{ background-color:black;
+body {
+  background-color: black;
+  width: 100%;
+}
+
+.image {
+  margin: 50%;
+  border-radius: 50px;
+  width: 90px;
+  height: 90px;
 }
